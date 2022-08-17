@@ -32,9 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Describe any challenges encountered while building the app.
-
+I encountered some problems during the Android Studio setup but apart form that everything was smooth. 
 ## License
 
     Copyright [yyyy] [name of copyright owner]
